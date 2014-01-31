@@ -1,0 +1,5 @@
+golang-mdns (0.0~git20140129+17be83d-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)
+
+ -- Kouhei Maeda <mkouhei@palmtb.net>  Thu, 30 Jan 2014 18:12:46 +0900
