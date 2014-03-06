@@ -1,4 +1,4 @@
-Source: golang-mdns
+Source: golang-armon-mdns
 Section: devel
 Priority: extra
 Maintainer: Kouhei Maeda <mkouhei@palmtb.net>
@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9.0.0), dh-golang, golang-go, golang-dns-dev, golan
 Standards-Version: 3.9.5
 Homepage: https://github.com/armon/mdns
 
-Package: golang-mdns-dev
+Package: golang-armon-mdns-dev
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, golang-go
 Description: Simple mDNS client/server library in Golang

@@ -1,5 +1,5 @@
-golang-mdns (0.0~git20140225~8be7e3a-1) unstable; urgency=low
+golang-armon-mdns (0.0~git20140225~8be7e3a-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)
 
- -- Kouhei Maeda <mkouhei@palmtb.net>  Thu, 27 Feb 2014 01:18:20 +0900
+ -- Kouhei Maeda <mkouhei@palmtb.net>  Fri, 07 Mar 2014 00:25:07 +0900
